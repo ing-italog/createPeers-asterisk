@@ -1,0 +1,15 @@
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\CreatePeers.exe.config
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\CreatePeers.exe
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\CreatePeers.pdb
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\System.Security.AccessControl.dll
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\System.Security.Permissions.dll
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\System.Security.AccessControl.xml
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\System.Security.Permissions.xml
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\obj\Debug\CreatePeers.csproj.CoreCompileInputs.cache
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\obj\Debug\CreatePeers.csproj.CopyComplete
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\obj\Debug\CreatePeers.exe
+C:\Users\italo.guevara\source\repos\CreatePeers\CreatePeers\obj\Debug\CreatePeers.pdb

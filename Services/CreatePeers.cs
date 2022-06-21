@@ -45,7 +45,7 @@ namespace CreatePeers.Services
                     for (int i = 0; i <= (numbersPeer.until - numbersPeer.from); i++)
                     {
                         file.WriteLine("[" + (numbersPeer.from + i) + "]"
-                                      + "\nusername=" + (numbersPeer.until + i + 1)
+                                      + "\nusername=" + (numbersPeer.from + i + 1)
                                       + "\ntype=friend"
                                       + "\nsecret=Qa$12Pl9&0"
                                       + "\nqualify=no"
@@ -58,7 +58,7 @@ namespace CreatePeers.Services
                                       + "\ncontext=" + context
                                       + "\ncanreinvite=0"
                                       + "\ncallgroup="
-                                      + "\ncallerid=" + (numbersPeer.until + i + 1)
+                                      + "\ncallerid=" + (numbersPeer.from + i + 1)
                                       + "\nrecord=no\n\n");
                     }
                 }
